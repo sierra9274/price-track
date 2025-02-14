@@ -21,7 +21,7 @@ const Navbar = () => {
       />
 
       <p className="text-xl font-semibold text-gray-900 dark:text-white">
-       Price<span className='text-red-600'>Track</span>
+       Price<span className='text-red-600'>Tracker</span>
       </p>
       </Link>
       <div className="flex items-center gap-6">
